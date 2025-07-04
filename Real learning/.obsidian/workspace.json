@@ -1,0 +1,187 @@
+{
+  "main": {
+    "id": "42b2f52f0306ea9d",
+    "type": "split",
+    "children": [
+      {
+        "id": "32861e4c7eaf7444",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "80fa0c5727652869",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Networks/1. Основные сетевые термины и сетевые модели.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "1. Основные сетевые термины и сетевые модели"
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "92ad6093d97ac63f",
+    "type": "split",
+    "children": [
+      {
+        "id": "26d130b6be389c0b",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "768b4064b53fd3f2",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {
+                "sortOrder": "alphabetical",
+                "autoReveal": false
+              },
+              "icon": "lucide-folder-closed",
+              "title": "Files"
+            }
+          },
+          {
+            "id": "ab7869d2055ed5a1",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              },
+              "icon": "lucide-search",
+              "title": "Search"
+            }
+          },
+          {
+            "id": "90a791612f900c79",
+            "type": "leaf",
+            "state": {
+              "type": "bookmarks",
+              "state": {},
+              "icon": "lucide-bookmark",
+              "title": "Bookmarks"
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 284.5026054382324
+  },
+  "right": {
+    "id": "c874173a4ade047e",
+    "type": "split",
+    "children": [
+      {
+        "id": "6de17b2709175724",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "faacd6edd5e67165",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "file": "Networks/1. Основные сетевые термины и сетевые модели.md",
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              },
+              "icon": "links-coming-in",
+              "title": "Backlinks for 1. Основные сетевые термины и сетевые модели"
+            }
+          },
+          {
+            "id": "f81007c8791da073",
+            "type": "leaf",
+            "state": {
+              "type": "outgoing-link",
+              "state": {
+                "file": "Networks/1. Основные сетевые термины и сетевые модели.md",
+                "linksCollapsed": false,
+                "unlinkedCollapsed": true
+              },
+              "icon": "links-going-out",
+              "title": "Outgoing links from 1. Основные сетевые термины и сетевые модели"
+            }
+          },
+          {
+            "id": "6d6df3030022ab3f",
+            "type": "leaf",
+            "state": {
+              "type": "tag",
+              "state": {
+                "sortOrder": "frequency",
+                "useHierarchy": true,
+                "showSearch": false,
+                "searchQuery": ""
+              },
+              "icon": "lucide-tags",
+              "title": "Tags"
+            }
+          },
+          {
+            "id": "81b79356519cf64e",
+            "type": "leaf",
+            "state": {
+              "type": "outline",
+              "state": {
+                "file": "Networks/1. Основные сетевые термины и сетевые модели.md",
+                "followCursor": false,
+                "showSearch": false,
+                "searchQuery": ""
+              },
+              "icon": "lucide-list",
+              "title": "Outline of 1. Основные сетевые термины и сетевые модели"
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300,
+    "collapsed": true
+  },
+  "left-ribbon": {
+    "hiddenItems": {
+      "switcher:Open quick switcher": false,
+      "graph:Open graph view": false,
+      "canvas:Create new canvas": false,
+      "daily-notes:Open today's daily note": false,
+      "templates:Insert template": false,
+      "command-palette:Open command palette": false
+    }
+  },
+  "active": "768b4064b53fd3f2",
+  "lastOpenFiles": [
+    "images",
+    "images/Pasted image 20250704200710.png",
+    "Networks/1. Основные сетевые термины и сетевые модели.md",
+    "Pasted image 20250704200813.png",
+    "Pasted image 20250704200645.png",
+    "Pasted image 20250704200655.png",
+    "Wow/asdads.md",
+    "Algorithms",
+    "Networks",
+    "I am trying to connect, but useless.md",
+    "aasdsadasd",
+    "Welcome.md",
+    "Wow"
+  ]
+}
