@@ -78,7 +78,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 284.5026054382324
+    "width": 284.5026054382324,
+    "collapsed": true
   },
   "right": {
     "id": "c874173a4ade047e",
@@ -168,11 +169,18 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "768b4064b53fd3f2",
+  "active": "80fa0c5727652869",
   "lastOpenFiles": [
+    "images/Pasted image 20250704220010.png",
+    "images/Pasted image 20250704215921.png",
+    "TCP.md",
+    "Networks/1. Основные сетевые термины и сетевые модели.md",
+    "images/Pasted image 20250704204158.png",
+    "images/Pasted image 20250704203557.png",
+    "images/Pasted image 20250704203130.png",
+    "images/Pasted image 20250704202535.png",
     "images",
     "images/Pasted image 20250704200710.png",
-    "Networks/1. Основные сетевые термины и сетевые модели.md",
     "Pasted image 20250704200813.png",
     "Pasted image 20250704200645.png",
     "Pasted image 20250704200655.png",
