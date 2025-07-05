@@ -3,5 +3,8 @@
   "interfaceFontFamily": "",
   "textFontFamily": "American Typewriter",
   "monospaceFontFamily": "Courier New",
-  "theme": "moonstone"
+  "theme": "moonstone",
+  "enabledCssSnippets": [
+    "theme-override"
+  ]
 }

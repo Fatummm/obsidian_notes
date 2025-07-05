@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Networks/1. Основные сетевые термины и сетевые модели.md",
+                "file": "Algorithms/Асимптотический анализ.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "1. Основные сетевые термины и сетевые модели"
+              "title": "Асимптотический анализ"
             }
           }
         ]
@@ -78,8 +78,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 284.5026054382324,
-    "collapsed": true
+    "width": 200
   },
   "right": {
     "id": "c874173a4ade047e",
@@ -171,10 +170,12 @@
   },
   "active": "80fa0c5727652869",
   "lastOpenFiles": [
+    "Algorithms/Алгоритмы.md",
+    "Algorithms/Асимптотический анализ.md",
+    "Networks/1. Основные сетевые термины и сетевые модели.md",
     "images/Pasted image 20250704220010.png",
     "images/Pasted image 20250704215921.png",
     "TCP.md",
-    "Networks/1. Основные сетевые термины и сетевые модели.md",
     "images/Pasted image 20250704204158.png",
     "images/Pasted image 20250704203557.png",
     "images/Pasted image 20250704203130.png",
