@@ -6,6 +6,7 @@
       {
         "id": "32861e4c7eaf7444",
         "type": "tabs",
+        "dimension": 61.64488854727133,
         "children": [
           {
             "id": "80fa0c5727652869",
@@ -13,12 +14,33 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Algorithms/Асимптотический анализ.md",
+                "file": "Algorithms/Алгоритмы.md",
+                "mode": "preview",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "Алгоритмы"
+            }
+          }
+        ]
+      },
+      {
+        "id": "914ac9529ebcd0f1",
+        "type": "tabs",
+        "dimension": 38.35511145272867,
+        "children": [
+          {
+            "id": "9666983d917e30f2",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Needed/Emojis.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Асимптотический анализ"
+              "title": "Emojis"
             }
           }
         ]
@@ -170,9 +192,14 @@
   },
   "active": "80fa0c5727652869",
   "lastOpenFiles": [
-    "Algorithms/Алгоритмы.md",
     "Algorithms/Асимптотический анализ.md",
+    "Algorithms/Задача сортировки.md",
+    "Needed/Emojis.md",
+    "Algorithms/Алгоритмы.md",
+    "Algorithms/Мастер-теорема.md",
+    "images/Pasted image 20250706095444.png",
     "Networks/1. Основные сетевые термины и сетевые модели.md",
+    "Needed",
     "images/Pasted image 20250704220010.png",
     "images/Pasted image 20250704215921.png",
     "TCP.md",
@@ -184,7 +211,6 @@
     "images/Pasted image 20250704200710.png",
     "Pasted image 20250704200813.png",
     "Pasted image 20250704200645.png",
-    "Pasted image 20250704200655.png",
     "Wow/asdads.md",
     "Algorithms",
     "Networks",
