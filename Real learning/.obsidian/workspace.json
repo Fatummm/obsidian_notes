@@ -15,7 +15,7 @@
               "type": "markdown",
               "state": {
                 "file": "Algorithms/Алгоритмы.md",
-                "mode": "preview",
+                "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
@@ -192,11 +192,11 @@
   },
   "active": "80fa0c5727652869",
   "lastOpenFiles": [
-    "Algorithms/Асимптотический анализ.md",
     "Algorithms/Задача сортировки.md",
+    "Algorithms/Асимптотический анализ.md",
     "Needed/Emojis.md",
-    "Algorithms/Алгоритмы.md",
     "Algorithms/Мастер-теорема.md",
+    "Algorithms/Алгоритмы.md",
     "images/Pasted image 20250706095444.png",
     "Networks/1. Основные сетевые термины и сетевые модели.md",
     "Needed",
