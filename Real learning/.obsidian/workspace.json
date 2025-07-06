@@ -6,20 +6,23 @@
       {
         "id": "32861e4c7eaf7444",
         "type": "tabs",
-        "dimension": 61.64488854727133,
+        "dimension": 74.71176018447348,
         "children": [
           {
             "id": "80fa0c5727652869",
             "type": "leaf",
             "state": {
-              "type": "markdown",
+              "type": "canvas",
               "state": {
-                "file": "Algorithms/Алгоритмы.md",
-                "mode": "source",
-                "source": false
+                "file": "Untitled.canvas",
+                "viewState": {
+                  "x": -780,
+                  "y": -452.99999630451214,
+                  "zoom": -0.9999999602635716
+                }
               },
-              "icon": "lucide-file",
-              "title": "Алгоритмы"
+              "icon": "lucide-layout-dashboard",
+              "title": "Untitled"
             }
           }
         ]
@@ -27,7 +30,7 @@
       {
         "id": "914ac9529ebcd0f1",
         "type": "tabs",
-        "dimension": 38.35511145272867,
+        "dimension": 25.288239815526524,
         "children": [
           {
             "id": "9666983d917e30f2",
@@ -36,7 +39,7 @@
               "type": "markdown",
               "state": {
                 "file": "Needed/Emojis.md",
-                "mode": "source",
+                "mode": "preview",
                 "source": false
               },
               "icon": "lucide-file",
@@ -192,31 +195,44 @@
   },
   "active": "80fa0c5727652869",
   "lastOpenFiles": [
-    "Algorithms/Задача сортировки.md",
-    "Algorithms/Асимптотический анализ.md",
-    "Needed/Emojis.md",
-    "Algorithms/Мастер-теорема.md",
-    "Algorithms/Алгоритмы.md",
-    "images/Pasted image 20250706095444.png",
+    "Algorithms/Сортировки/Задача сортировки.md",
+    "Algorithms/Сортировки/Сортировки.md",
+    "Untitled.canvas",
     "Networks/1. Основные сетевые термины и сетевые модели.md",
+    "2025-07-06.md",
+    "Algorithms/Сортировки/Сортировка слиянием.md",
+    "images/merge_sort.gif",
+    "merge_sort.gif.crdownload",
+    "Needed/Emojis.md",
+    "Algorithms/Сортировки/Сортировка пузырьком.md",
+    "Algorithms/Сортировки/Сортировка выбором.md",
+    "Algorithms/Сортировки/Сортировка вставками.md",
+    "Algorithms/Алгоритмы.md",
+    "Algorithms/Поиски/Поиски.md",
+    "Algorithms/Поиски",
+    "Algorithms/Основы",
+    "Algorithms/Основы/Асимптотический анализ.md",
+    "Algorithms/Основы/Основы.md",
+    "Algorithms/Основы/Мастер-теорема.md",
+    "Algorithms/Сортировки",
+    "Untitled",
+    "images/insertion_sort.gif",
+    "insertion_sort.gif.crdownload",
+    "images/selection_sort.gif",
+    "selection_sort.gif.crdownload",
+    "Pasted image 20250706161142.png",
+    "images/dod_model.png",
+    "images/osi_model.png",
+    "images/hybrid_topology.png",
+    "images/full-mesh_topology.png",
+    "images/bubble_sort.gif",
+    "images/ring_topology.png",
+    "1_49e0bb0f63_63adb81133.gif.crdownload",
     "Needed",
-    "images/Pasted image 20250704220010.png",
-    "images/Pasted image 20250704215921.png",
     "TCP.md",
-    "images/Pasted image 20250704204158.png",
-    "images/Pasted image 20250704203557.png",
-    "images/Pasted image 20250704203130.png",
-    "images/Pasted image 20250704202535.png",
     "images",
-    "images/Pasted image 20250704200710.png",
-    "Pasted image 20250704200813.png",
-    "Pasted image 20250704200645.png",
     "Wow/asdads.md",
-    "Algorithms",
-    "Networks",
     "I am trying to connect, but useless.md",
-    "aasdsadasd",
-    "Welcome.md",
-    "Wow"
+    "Welcome.md"
   ]
 }
