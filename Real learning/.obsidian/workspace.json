@@ -6,40 +6,37 @@
       {
         "id": "32861e4c7eaf7444",
         "type": "tabs",
-        "dimension": 74.71176018447348,
+        "dimension": 65.2073732718894,
         "children": [
           {
-            "id": "80fa0c5727652869",
+            "id": "b446903476ebedda",
             "type": "leaf",
             "state": {
-              "type": "canvas",
+              "type": "markdown",
               "state": {
-                "file": "Untitled.canvas",
-                "viewState": {
-                  "x": -920,
-                  "y": -400,
-                  "zoom": 0
-                }
+                "file": "Сортировка подсчётом.md",
+                "mode": "source",
+                "source": false
               },
-              "icon": "lucide-layout-dashboard",
-              "title": "Untitled"
+              "icon": "lucide-file",
+              "title": "Сортировка подсчётом"
             }
           }
         ]
       },
       {
-        "id": "914ac9529ebcd0f1",
+        "id": "f454c9011cd3768d",
         "type": "tabs",
-        "dimension": 25.288239815526524,
+        "dimension": 34.7926267281106,
         "children": [
           {
-            "id": "9666983d917e30f2",
+            "id": "f5b13b052570cda5",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
                 "file": "Needed/Emojis.md",
-                "mode": "preview",
+                "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
@@ -193,52 +190,54 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "80fa0c5727652869",
+  "active": "b446903476ebedda",
   "lastOpenFiles": [
+    "Algorithms/Сортировки/Сортировка слиянием.md",
+    "Сортировка подсчётом.md",
+    "Needed/Emojis.md",
+    "Algorithms/Сортировки/Сортировка вставками.md",
+    "Algorithms/Сортировки/Сортировки.md",
+    "Algorithms/Запросы на отрезках/Префиксные суммы.md",
+    "Algorithms/Основы/Мастер-теорема.md",
+    "Algorithms/Запросы на отрезках/Запросы на отрезках.md",
+    "Algorithms/Алгоритмы.md",
+    "Algorithms/Дерево отрезков.md",
+    "Algorithms/Дерево отрезков на массиве.md",
+    "Algorithms/Общая идея дерева отрезков.md",
+    "Algorithms/Сортировки/Быстрая сортировка.md",
+    "images/quick_sort_example.png",
+    "images/bubble_sort.gif",
+    "Untitled.md",
+    "Algorithms/Сортировки/Задача сортировки.md",
+    "Algorithms/Сортировки/Сортировка пузырьком.md",
+    "Algorithms/Сортировки/Сортировка выбором.md",
+    "Algorithms/Основы/Асимптотический анализ.md",
+    "Algorithms/Основы/Основы.md",
+    "Untitled.canvas",
     "images/HTTP-request.png",
     "Networks/2. Протоколы верхнего уровня.md",
-    "Needed/Emojis.md",
     "images/ftp example.png",
     "Pasted image 20250725101403.png",
     "images/nslookup example.png",
     "images/DNS resolving.png",
     "Networks/1. Основные сетевые термины и сетевые модели.md",
-    "Algorithms/Алгоритмы.md",
-    "Algorithms/Дерево отрезков.md",
-    "Algorithms/Общая идея дерева отрезков.md",
-    "Untitled.canvas",
-    "Algorithms/Дерево отрезков на массиве.md",
     "images/images.png",
     "Pasted image 20250714200949.png",
     "images/segtree-example.jpg",
     "images.png.crdownload",
     "segtree-example.jpg.crdownload",
-    "Algorithms/Сортировки/Сортировка вставками.md",
-    "Algorithms/Основы/Основы.md",
-    "Algorithms/Основы/Асимптотический анализ.md",
-    "Algorithms/Сортировки/Сортировки.md",
-    "Algorithms/Запросы на отрезках/Запросы на отрезках.md",
-    "Algorithms/Запросы на отрезках/Префиксные суммы.md",
-    "Algorithms/Сортировки/Задача сортировки.md",
     "Algorithms/Поиски/Поиски.md",
     "Algorithms/Запросы на отрезках",
     "2025-07-06.md",
-    "Algorithms/Сортировки/Сортировка слиянием.md",
-    "images/merge_sort.gif",
     "merge_sort.gif.crdownload",
-    "Algorithms/Сортировки/Сортировка пузырьком.md",
-    "Algorithms/Сортировки/Сортировка выбором.md",
     "Algorithms/Поиски",
     "Algorithms/Основы",
-    "Algorithms/Основы/Мастер-теорема.md",
     "Algorithms/Сортировки",
     "Untitled",
-    "images/insertion_sort.gif",
     "insertion_sort.gif.crdownload",
     "selection_sort.gif.crdownload",
     "TCP.md",
     "Wow/asdads.md",
-    "I am trying to connect, but useless.md",
-    "Welcome.md"
+    "I am trying to connect, but useless.md"
   ]
 }
