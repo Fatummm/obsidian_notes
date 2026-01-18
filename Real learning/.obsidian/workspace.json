@@ -4,33 +4,46 @@
     "type": "split",
     "children": [
       {
-        "id": "32861e4c7eaf7444",
+        "id": "44c2dafb19ef9bcc",
         "type": "tabs",
-        "dimension": 65.2073732718894,
+        "dimension": 72.48447204968944,
         "children": [
           {
-            "id": "b446903476ebedda",
+            "id": "4b6fcef8c4d4e201",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Сортировка подсчётом.md",
+                "file": "Algorithms/Сортировки/Сортировки.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Сортировка подсчётом"
+              "title": "Сортировки"
+            }
+          },
+          {
+            "id": "d9bfcbf5189bc586",
+            "type": "leaf",
+            "state": {
+              "type": "release-notes",
+              "state": {
+                "currentVersion": "1.10.6"
+              },
+              "icon": "lucide-book-up",
+              "title": "Release Notes 1.10.6"
             }
           }
-        ]
+        ],
+        "currentTab": 1
       },
       {
-        "id": "f454c9011cd3768d",
+        "id": "61144b290caa8f2a",
         "type": "tabs",
-        "dimension": 34.7926267281106,
+        "dimension": 27.51552795031056,
         "children": [
           {
-            "id": "f5b13b052570cda5",
+            "id": "51745796edba6e84",
             "type": "leaf",
             "state": {
               "type": "markdown",
@@ -182,6 +195,7 @@
   },
   "left-ribbon": {
     "hiddenItems": {
+      "bases:Create new base": false,
       "switcher:Open quick switcher": false,
       "graph:Open graph view": false,
       "canvas:Create new canvas": false,
@@ -190,54 +204,54 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "b446903476ebedda",
+  "active": "d9bfcbf5189bc586",
   "lastOpenFiles": [
-    "Algorithms/Сортировки/Сортировка слиянием.md",
-    "Сортировка подсчётом.md",
-    "Needed/Emojis.md",
-    "Algorithms/Сортировки/Сортировка вставками.md",
-    "Algorithms/Сортировки/Сортировки.md",
-    "Algorithms/Запросы на отрезках/Префиксные суммы.md",
-    "Algorithms/Основы/Мастер-теорема.md",
-    "Algorithms/Запросы на отрезках/Запросы на отрезках.md",
     "Algorithms/Алгоритмы.md",
-    "Algorithms/Дерево отрезков.md",
-    "Algorithms/Дерево отрезков на массиве.md",
-    "Algorithms/Общая идея дерева отрезков.md",
-    "Algorithms/Сортировки/Быстрая сортировка.md",
-    "images/quick_sort_example.png",
-    "images/bubble_sort.gif",
-    "Untitled.md",
-    "Algorithms/Сортировки/Задача сортировки.md",
+    "Массив.md",
+    "Needed/Emojis.md",
+    "Что такое структуры данных.md",
+    "tmp.md",
+    "Untitled.base",
+    "Algorithms/Простые структуры данных.md",
+    "Algorithms/Сортировки/Сортировки.md",
     "Algorithms/Сортировки/Сортировка пузырьком.md",
-    "Algorithms/Сортировки/Сортировка выбором.md",
-    "Algorithms/Основы/Асимптотический анализ.md",
+    "Algorithms/Сортировки/Задача сортировки.md",
     "Algorithms/Основы/Основы.md",
-    "Untitled.canvas",
-    "images/HTTP-request.png",
-    "Networks/2. Протоколы верхнего уровня.md",
-    "images/ftp example.png",
-    "Pasted image 20250725101403.png",
-    "images/nslookup example.png",
-    "images/DNS resolving.png",
-    "Networks/1. Основные сетевые термины и сетевые модели.md",
-    "images/images.png",
-    "Pasted image 20250714200949.png",
-    "images/segtree-example.jpg",
-    "images.png.crdownload",
-    "segtree-example.jpg.crdownload",
+    "Algorithms/Основы/Асимптотический анализ.md",
+    "Algorithms/Запросы на отрезках/Запросы на отрезках.md",
+    "Algorithms/Весёлые структуры данных/Двоичная куча.md",
+    "Algorithms/Запросы на отрезках/Префиксные суммы.md",
+    "Корневая декомпозиция.md",
+    "Algorithms/Весёлые структуры данных/Весёлые структуры данных.md",
     "Algorithms/Поиски/Поиски.md",
-    "Algorithms/Запросы на отрезках",
-    "2025-07-06.md",
-    "merge_sort.gif.crdownload",
-    "Algorithms/Поиски",
-    "Algorithms/Основы",
-    "Algorithms/Сортировки",
-    "Untitled",
-    "insertion_sort.gif.crdownload",
-    "selection_sort.gif.crdownload",
-    "TCP.md",
-    "Wow/asdads.md",
-    "I am trying to connect, but useless.md"
+    "Untitled 1.base",
+    "Algorithms/Страшные структуры данных/Страшные структуры данных.md",
+    "Algorithms/Поиски/Экспоненциальный поиск.md",
+    "Algorithms/Поиски/Прыжковый поиск.md",
+    "Algorithms/Страшные структуры данных/ДО/Дерево отрезков.md",
+    "Algorithms/Страшные структуры данных/ДО/Дерево отрезков на массиве.md",
+    "Algorithms/Страшные структуры данных/ДО/Общая идея дерева отрезков.md",
+    "Algorithms/Сортировки/Сортировка с компаратором.md",
+    "Networks/1. Основные сетевые термины и сетевые модели.md",
+    "Algorithms/Весёлые структуры данных",
+    "Untitled.canvas",
+    "images/ternary_search.png",
+    "Pasted image 20250826133050.png",
+    "Untitled 1.canvas",
+    "Pasted image 20250826124422.png",
+    "Pasted image 20250825125155.png",
+    "Pasted image 20250816180148.png",
+    "images/Min_heap.png",
+    "images/Heap_sort_example.gif",
+    "Unconfirmed 363895.crdownload",
+    "Unconfirmed 993341.crdownload",
+    "Algorithms/Страшные структуры данных/ДО",
+    "Algorithms/Страшные структуры данных",
+    "images/radix_sort.gif",
+    "Unconfirmed 964952.crdownload",
+    "images/MSD.png",
+    "Unconfirmed 444830.crdownload",
+    "images/radix-sort-3.png",
+    "Unconfirmed 954783.crdownload"
   ]
 }
